@@ -6,7 +6,7 @@ This is a Machine Learining approach using the following Regression models-
 3) Multi Linear Regression
 4) Polynomial Regression
 
-To predict the temperature (Farenheit) of different cities-
+To predict the average temperature (Farenheit) of different cities-
 1) Chennai
 2) Delhi
 3) Mumbai
