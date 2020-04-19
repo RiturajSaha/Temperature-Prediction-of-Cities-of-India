@@ -17,4 +17,4 @@ Below is comparison of R-Squared value of different cities after applying Random
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Random Forest Regression  | 0.1120  | 0.4816  | 0.0223  | 0.3661  |
 
-
+Researchers evaluate their models based on r-square values or in other words effect sizes. According to Cohen (1992)  r-square value .12 or below indicate low, between .13 to .25 values indicate medium, .26 or above and above values indicate high effect size.
