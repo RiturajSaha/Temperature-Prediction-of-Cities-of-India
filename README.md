@@ -13,7 +13,7 @@ R Squared value of different models are used to compare them. R-squared is a sta
 
 Below is comparison of R-Squared value of different cities after applying Random Forest Regression.
 
-| City & Model | Chennai | Delhi | Mumbai | Kolkata |
+| City : | Chennai | Delhi | Mumbai | Kolkata |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Random Forest Regression  | 0.1120  | 0.4816  | 0.0223  | 0.3661  |
 
