@@ -20,3 +20,8 @@ R Squared value of different models are used to compare them.
 R-squared is a statistical measure that represents the goodness of fit of a regression model. The ideal value for r-square is 1. The closer the value of r-square to 1, the better is the model fitted.
 
 The temeperature prediction of a city is obtained with an accuracy of 0.7058 R Squared value from SVR Model in Mumbai dataset.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
