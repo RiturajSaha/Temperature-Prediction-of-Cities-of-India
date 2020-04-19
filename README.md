@@ -20,10 +20,7 @@ R Squared value of different models are used to compare them. R-squared is a sta
 
 Below is cmaprison of different regression models o diffierent cities in the dataset on the basis of R-Squared value.
 
-| City->
-model
-|
-V| Chennai | Delhi | Mumbai | Kolkata |
+| City & Model | Chennai | Delhi | Mumbai | Kolkata |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Random Forest Regression  | 0.1120  | 0.4816  | 0.0223  | 0.3661  |
 | Support Vector Regression  | 0.1390  | 0.3564  | 0.7058  | 0.2380  |
