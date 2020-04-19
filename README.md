@@ -9,9 +9,9 @@ on any given date(mm-dd-yyyy)
 
 The temperature dataset of these cities were obtained from https://www.kaggle.com/riturajsaha/temperature-of-different-cities-of-india
 
-R Squared value of different models are used to compare them. R-squared is a statistical measure that represents the goodness of fit of a regression model. The ideal value for r-square is 1. The closer the value of r-square to 1, the better is the model fitted.
+R2 Score value of different models are used to compare them, r-square is a statistical measure that represents the goodness of fit of a regression model. The ideal value for r-square is 1, its range is from -1 to 1. 
 
-Below is comparison of R-Squared value of different cities after applying Random Forest Regression.
+Below is comparison of r-Square value of different cities after applying Random Forest Regression.
 
 | City : | Chennai | Delhi | Mumbai | Kolkata |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
